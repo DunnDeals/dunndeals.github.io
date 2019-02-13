@@ -3,7 +3,7 @@ title: About Alembic
 feature_text: |
   ## TEST
   I DONT KNOW WHERE THIS WILL SHOW UP
-feature_image: "https://github.com/DunnDeals/dunndeals.github.io/blob/master/assets/DunnDeals.PNG"
+feature_image: "dunndeals.github.io/assets/DunnDeals.PNG"
 excerpt: "here we are"
 ---
 
