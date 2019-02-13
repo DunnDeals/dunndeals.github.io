@@ -1,10 +1,9 @@
 ---
-title: About Alembic
+title: 
 feature_text: |
-  ## TEST
-  I DONT KNOW WHERE THIS WILL SHOW UP
+  ##
 feature_image: "dunndeals.github.io/assets/DunnDeals.PNG"
-excerpt: "here we are"
+excerpt: ""
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
