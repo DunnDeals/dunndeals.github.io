@@ -8,3 +8,6 @@ excerpt: ""
 Bringing you Rae Dunn finds each week! 
 
 
+![1](assets/E3428C20-652B-48DE-BE64-0834A7112C25.png)
+![2](assets/E3428C20-652B-48DE-BE64-0834A7112C25.png)
+
